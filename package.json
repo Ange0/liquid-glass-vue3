@@ -6,7 +6,9 @@
   "module": "dist/liquid-glass-vue3.es.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
+
   ],
   "exports": {
     ".": {
