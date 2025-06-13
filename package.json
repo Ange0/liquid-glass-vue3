@@ -1,12 +1,13 @@
 {
   "name": "liquid-glass-vue3",
   "version": "1.0.6",
-  "description": "Un composant Vue 3 avec effet de verre liquide pour créer des interfaces modernes et élégantes",
+  "description": "A Vue 3 component with a liquid glass effect for creating modern and elegant interfaces — inspired by Apple WWDC 2025.",
   "main": "dist/liquid-glass-vue3.umd.js",
   "module": "dist/liquid-glass-vue3.es.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist",
+    "assets",
     "README.md"
 
   ],
@@ -33,6 +34,7 @@
     "glassmorphism",
     "liquid",
     "ui",
+    "Apple WWDC 2025",
     "interface"
   ],
   "author": "Yao Kouassi Ange",
