@@ -2,7 +2,7 @@
 
 Card Example              |  Button Example
 :-------------------------:|:-------------------------:
-![](./button-logout.png)  |  ![](./user-card.png)
+![](./assets/button-logout.png)  |  ![](./assets/user-card.png)
 
 ## Installation
 

@@ -1,6 +1,6 @@
 {
   "name": "liquid-glass-vue3",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Un composant Vue 3 avec effet de verre liquide pour créer des interfaces modernes et élégantes",
   "main": "dist/liquid-glass-vue3.umd.js",
   "module": "dist/liquid-glass-vue3.es.js",
