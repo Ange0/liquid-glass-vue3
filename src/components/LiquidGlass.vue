@@ -77,7 +77,7 @@
 
 <script setup lang="ts">
 import { computed, ref } from 'vue'
-import type { LiquidGlassProps } from '../types/index'
+import type { LiquidGlassProps } from '../index'
 
 // Props avec types TypeScript
 const props = withDefaults(defineProps<LiquidGlassProps>(), {
@@ -110,7 +110,7 @@ const tintStyle = computed(() => ({
 }))
 </script>
 
-<style>
+<style scoped>
 .liquid-glass {
   position: relative;
   display: flex;
