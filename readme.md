@@ -18,6 +18,8 @@ npm install liquid-glass-vue3
 import { createApp } from 'vue'
 import App from './App.vue'
 import LiquidGlassPlugin from 'liquid-glass-vue3'
+import 'liquid-glass-vue3/dist/style.css'
+
 
 const app = createApp(App)
 app.use(LiquidGlassPlugin)
@@ -29,6 +31,8 @@ app.mount('#app')
 ```javascript
 // Dans votre composant
 import { LiquidGlass } from 'liquid-glass-vue3'
+import 'liquid-glass-vue3/dist/style.css'
+
 
 export default {
   components: {
