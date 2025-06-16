@@ -1,6 +1,6 @@
 {
   "name": "liquid-glass-vue3",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A Vue 3 component with a liquid glass effect for creating modern and elegant interfaces — inspired by Apple WWDC 2025.",
   "main": "./dist/liquid-glass-package.umd.js",
   "module": "./dist/liquid-glass-package.es.js",
@@ -30,7 +30,7 @@
     "url": "https://github.com/ange0/liquid-glass-vue3.git"
   },
   "peerDependencies": {
-    "vue": "^3.0.0"
+    "vue": "^3.5.16"
   },
   "devDependencies": {
     "@types/node": "^24.0.1",
